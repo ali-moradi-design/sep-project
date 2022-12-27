@@ -5,10 +5,9 @@ const dark = '#212121';
 
 const darkPink = '#8C7CE0';
 const pink = '#D34D91';
-const darkBlue = '#818AB3';
 const grey = '#BBBCBC';
 const lightBlue = '#ACB0CE';
-const navyBlue = '#2B324A';
+const navyBlue = '#040406';
 const white = '#fff';
 const black = '#000';
 const yellow = '#FFDD00';
@@ -38,10 +37,10 @@ const theme = createTheme({
       yellow: yellow
     },
     primary: {
-      main: '#556f23'
+      main: '#a88a4a'
     },
     secondary: {
-      main: dark
+      main: '#512914'
     }
   },
   // direction: "rtl",
@@ -112,7 +111,7 @@ const theme = createTheme({
     },
     body2: {
       fontSize: '1.6rem',
-      color: white,
+      color: dark,
       fontWeight: 'normal'
       // lineHeight: 1.5,
     },
